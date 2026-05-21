@@ -1,0 +1,9 @@
+{
+  "0": "recyclable_plastic",
+  "1": "glass",
+  "2": "metal",
+  "3": "paper_cardboard",
+  "4": "organic_biodegradable",
+  "5": "hazardous",
+  "6": "non_recyclable_trash"
+}
