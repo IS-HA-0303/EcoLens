@@ -1,0 +1,22 @@
+# Large data folders
+data/raw/
+data/processed/
+data/train/
+data/val/
+data/test/
+
+# Large model file
+models/best_model.pth
+models/gradcam_outputs/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Environment
+.env
+
+# VS Code
+.vscode/
