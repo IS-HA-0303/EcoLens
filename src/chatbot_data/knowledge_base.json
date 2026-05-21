@@ -1,0 +1,82 @@
+[
+  {
+    "class": "glass",
+    "category": "disposal",
+    "text": "Glass disposal and recycling guide:\n        Glass bottles, jars, and containers are 100% recyclable and can be \n        recycled endlessly without losing quality. Rinse glass containers \n        before recycling. Remove metal lids and recycle separately. \n        Do not include broken glass in recycling bins \u2014 wrap in newspaper \n        and place in general waste for safety. Window glass, mirrors, \n        and Pyrex cannot be recycled with regular glass as they have \n        different melting points. In India, glass can be given to \n        kabadiwala (scrap dealers) who pay for it by weight."
+  },
+  {
+    "class": "glass",
+    "category": "environment",
+    "text": "Environmental impact of glass waste:\n        Glass takes over 1 million years to decompose in landfill. \n        Recycling one glass bottle saves enough energy to power a \n        computer for 25 minutes. Glass production requires silica sand \n        mining which damages ecosystems. Using recycled glass reduces \n        air pollution by 20% and water pollution by 50% compared to \n        virgin glass production."
+  },
+  {
+    "class": "hazardous",
+    "category": "disposal",
+    "text": "Hazardous waste disposal \u2014 batteries and chemicals:\n        Never throw batteries in regular trash or recycling bins. \n        Batteries contain lead, mercury, cadmium and lithium which \n        contaminate soil and groundwater. In India, take batteries to \n        authorized collection centers. Many electronics stores like \n        Croma and Reliance Digital accept old batteries. \n        For household chemicals like paint, pesticides, and cleaning \n        products \u2014 never pour down drains. Contact your local \n        municipal corporation for hazardous waste collection drives. \n        CPCB (Central Pollution Control Board) regulates hazardous \n        waste disposal in India."
+  },
+  {
+    "class": "hazardous",
+    "category": "environment",
+    "text": "Why hazardous waste is dangerous:\n        Batteries leaching into soil can contaminate groundwater for \n        decades. One AA battery can pollute 1000 liters of water. \n        Mercury from batteries accumulates in fish and enters the \n        human food chain causing neurological damage. CFL bulbs contain \n        mercury vapor \u2014 break one in a room and ventilate immediately. \n        Never burn hazardous waste as it releases toxic fumes."
+  },
+  {
+    "class": "metal",
+    "category": "disposal",
+    "text": "Metal recycling guide \u2014 cans, foil, scrap:\n        Aluminium cans are the most valuable recyclable material. \n        Recycling aluminium uses 95% less energy than producing new aluminium. \n        Steel cans, tins and containers are fully recyclable. \n        Clean metal containers before recycling \u2014 food residue contaminates \n        recycling batches. Aluminium foil can be recycled if clean \u2014 \n        scrunch multiple pieces into a ball before recycling. \n        In India, scrap metal dealers (kabadiwala) actively buy metal \n        by weight. Old appliances can be given to authorized e-waste \n        recyclers or scrap dealers."
+  },
+  {
+    "class": "metal",
+    "category": "environment",
+    "text": "Environmental impact of metal waste:\n        Mining metal ores destroys habitats and causes severe pollution. \n        Recycling one aluminium can saves enough energy to run a TV \n        for 3 hours. Steel recycling saves 1.1 tonnes of CO2 per tonne \n        of steel recycled. Metals do not biodegrade \u2014 they persist in \n        environment for centuries. Rusting metal leaches iron oxide \n        into soil affecting plant growth."
+  },
+  {
+    "class": "paper_cardboard",
+    "category": "disposal",
+    "text": "Paper and cardboard recycling guide:\n        Flatten cardboard boxes before recycling to save space. \n        Remove tape, staples and plastic windows from envelopes. \n        Pizza boxes contaminated with grease cannot be recycled \u2014 \n        tear off the clean top and recycle that, compost the greasy bottom. \n        Shredded paper should be placed in a paper bag before recycling \n        as it jams sorting machines. Newspapers, magazines, office paper, \n        cardboard packaging are all recyclable. Thermal paper receipts \n        contain BPA and cannot be recycled \u2014 place in general waste. \n        In India, newspapers and cardboard are highly valued by \n        kabadiwala \u2014 approximately Rs 10-15 per kg."
+  },
+  {
+    "class": "paper_cardboard",
+    "category": "reuse",
+    "text": "Creative reuse of paper and cardboard:\n        Cardboard boxes can be reused for storage, moving, or craft projects. \n        Newspapers make excellent packing material, shelf liners, and \n        can be used for cleaning glass windows. Old magazines can be \n        donated to hospitals, schools, or community centers. \n        Cardboard tubes from toilet rolls make excellent seed starters \n        for gardening. Paper bags can replace plastic bags for shopping."
+  },
+  {
+    "class": "organic_biodegradable",
+    "category": "disposal",
+    "text": "Organic and biodegradable waste disposal:\n        Food waste and organic material should ideally be composted \n        rather than sent to landfill. Home composting: collect fruit \n        peels, vegetable scraps, coffee grounds, eggshells, and garden \n        waste in a compost bin. Avoid composting meat, dairy, and oily \n        food as they attract pests. Compost takes 2-6 months to mature \n        into rich fertilizer. In India, many municipalities have \n        wet waste (green bin) and dry waste (blue bin) segregation. \n        Wet/organic waste goes in the green bin for municipal composting. \n        Biogas plants can convert organic waste to cooking gas \u2014 \n        several Indian cities have community biogas plants."
+  },
+  {
+    "class": "organic_biodegradable",
+    "category": "environment",
+    "text": "Why composting matters:\n        When organic waste goes to landfill it produces methane \u2014 \n        a greenhouse gas 25x more potent than CO2. \n        Composting returns nutrients to soil, reducing need for \n        chemical fertilizers. India generates 62 million tonnes of \n        solid waste annually \u2014 50% is organic. Composting could \n        eliminate half of India's landfill waste. \n        Vermicomposting using earthworms produces even richer compost \n        and can be done in a small apartment."
+  },
+  {
+    "class": "non_recyclable_trash",
+    "category": "disposal",
+    "text": "Non-recyclable waste disposal:\n        Items like chip packets, multilayer plastic packaging, \n        broken toys, used diapers, sanitary waste, and contaminated \n        materials cannot be recycled and must go to general waste. \n        Minimize non-recyclable waste by choosing products with \n        recyclable packaging. Some non-recyclables like clothes and \n        shoes can be donated instead of discarded. \n        Styrofoam/thermocol is technically recyclable but rarely \n        accepted \u2014 check local facilities. Co-processing in cement \n        kilns is used in India to dispose of non-recyclable waste \n        at high temperatures safely."
+  },
+  {
+    "class": "non_recyclable_trash",
+    "category": "reduce",
+    "text": "Reducing non-recyclable waste:\n        The best approach to non-recyclable waste is to not generate it. \n        Choose loose produce over packaged. Carry reusable bags, \n        bottles and containers. Choose products with minimal packaging. \n        Buy in bulk to reduce per-unit packaging. \n        Repair items instead of discarding \u2014 clothes, electronics, \n        furniture. Choose quality items that last longer over cheap \n        disposable alternatives."
+  },
+  {
+    "class": "recyclable_plastic",
+    "category": "disposal",
+    "text": "Recyclable plastic guide:\n        Plastics are numbered 1-7. Types 1 (PET \u2014 water bottles) \n        and 2 (HDPE \u2014 milk jugs, shampoo bottles) are most widely recycled. \n        Type 5 (PP \u2014 yogurt containers, straws) is increasingly accepted. \n        Types 3, 6, 7 are rarely recyclable \u2014 check local guidelines. \n        Rinse plastic containers \u2014 food contamination ruins entire \n        recycling batches. Remove labels if possible. \n        Do not recycle plastic bags in regular bins \u2014 they jam machinery. \n        Many supermarkets have plastic bag drop-off points. \n        In India, plastic waste management rules 2016 mandate that \n        producers take responsibility for plastic waste collection."
+  },
+  {
+    "class": "recyclable_plastic",
+    "category": "environment",
+    "text": "Plastic pollution facts:\n        Only 9% of all plastic ever produced has been recycled globally. \n        Plastic takes 400-1000 years to decompose. \n        8 million tonnes of plastic enters oceans every year. \n        Microplastics have been found in human blood, breast milk, \n        and placentas. India banned single-use plastics in 2022 \n        including straws, plates, cups, and carry bags under 75 microns. \n        Recycling one tonne of plastic saves 5774 kWh of energy, \n        16.3 barrels of oil, and 30 cubic yards of landfill space."
+  },
+  {
+    "class": "general",
+    "category": "india",
+    "text": "Waste management in India \u2014 key facts:\n        Swachh Bharat Mission launched in 2014 aims for clean India. \n        Source segregation is mandatory \u2014 wet waste (green bin), \n        dry waste (blue bin), hazardous waste (red bin). \n        Extended Producer Responsibility (EPR) makes manufacturers \n        responsible for collecting their packaging waste. \n        CPCB regulates hazardous and biomedical waste. \n        Kabadiwala (informal waste collectors) play a crucial role \u2014 \n        India's informal recycling sector handles 90% of recyclables. \n        ITC's WOW (Well-being Out of Waste) program collects \n        and recycles over 120,000 tonnes of waste annually."
+  },
+  {
+    "class": "general",
+    "category": "tips",
+    "text": "General waste reduction tips:\n        Follow the 5R hierarchy: Refuse, Reduce, Reuse, Recycle, Rot.\n        Refuse unnecessary items \u2014 say no to single use plastics.\n        Reduce consumption overall \u2014 buy only what you need.\n        Reuse items as many times as possible before discarding.\n        Recycle what cannot be reused \u2014 clean and sort properly.\n        Rot \u2014 compost organic waste instead of landfilling.\n        A zero-waste lifestyle is achievable with small consistent changes.\n        Track your waste for one week to identify biggest waste categories."
+  }
+]
