@@ -1,0 +1,10 @@
+{
+  "embedder_model": "all-MiniLM-L6-v2",
+  "llm_provider": "groq",
+  "llm_model": "llama-3.1-8b-instant",
+  "top_k": 3,
+  "max_output_tokens": 512,
+  "temperature": 0.3,
+  "index_path": "C:\\Users\\ishas\\OneDrive\\Desktop\\ML\\Ecolens\\src\\chatbot_data\\waste_index.faiss",
+  "kb_path": "C:\\Users\\ishas\\OneDrive\\Desktop\\ML\\Ecolens\\src\\chatbot_data\\knowledge_base.json"
+}
