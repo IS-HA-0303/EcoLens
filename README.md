@@ -2,30 +2,30 @@
 
 A production-grade, end-to-end **deep learning system** that classifies waste from images using **EfficientNet-B4**, explains model decisions with **Grad-CAM heatmaps**, and provides India-specific disposal guidance via a **RAG-powered chatbot** — deployed on Hugging Face Spaces.
 
-## 🚀 Live App
+## Live App
 
-👉 **[https://huggingface.co/spaces/Isha-03/EcoLens](https://huggingface.co/spaces/Isha-03/EcoLens)**
+ **[https://huggingface.co/spaces/Isha-03/EcoLens](https://huggingface.co/spaces/Isha-03/EcoLens)**
 
-## 🧠 How It Works
+## How It Works
 
 This system uses a **3-layer pipeline**:
 
 | Layer | Technology | Role |
 |-------|-----------|------|
-| 🔍 **Classification** | EfficientNet-B4 fine-tuned | Classifies waste image into 7 categories |
-| 🔥 **Explainability** | Grad-CAM (built from scratch) | Highlights which pixels influenced the prediction |
-| 💬 **RAG Chatbot** | FAISS + Groq LLM (Llama3) | Retrieves relevant knowledge and generates disposal guidance |
+|  **Classification** | EfficientNet-B4 fine-tuned | Classifies waste image into 7 categories |
+|  **Explainability** | Grad-CAM (built from scratch) | Highlights which pixels influenced the prediction |
+|  **RAG Chatbot** | FAISS + Groq LLM (Llama3) | Retrieves relevant knowledge and generates disposal guidance |
 
-## ✨ Features
+##  Features
 
-- 🎯 **Waste Classification** — 7 categories with 89.6% test accuracy
-- 🔥 **Grad-CAM Heatmaps** — visual explanation of model attention, implemented from scratch
-- 🗑️ **Bin Guidance** — shows correct bin across Green, Blue, Black, Red, E-Waste, Kabadiwala
-- 💬 **RAG Chatbot** — FAISS vector search + Groq LLM for India-specific Q&A
-- 📊 **Confidence Scores** — top-5 predictions with probability bars
+-  **Waste Classification** — 7 categories with 89.6% test accuracy
+-  **Grad-CAM Heatmaps** — visual explanation of model attention, implemented from scratch
+-  **Bin Guidance** — shows correct bin across Green, Blue, Black, Red, E-Waste, Kabadiwala
+-  **RAG Chatbot** — FAISS vector search + Groq LLM for India-specific Q&A
+-  **Confidence Scores** — top-5 predictions with probability bars
 - 🇮🇳 **India-Specific** — kabadiwala integration, CPCB guidelines, Swachh Bharat
 
-## 📈 Model Performance
+##  Model Performance
 
 | Metric | Value |
 |--------|-------|
@@ -48,7 +48,7 @@ This system uses a **3-layer pipeline**:
 | Paper/Cardboard | 0.932 | 0.925 | **0.929** |
 | Recyclable Plastic | 0.743 | 0.770 | 0.756 |
 
-## 🏗️ Tech Stack
+##  Tech Stack
 
 | Category | Tools |
 |----------|-------|
@@ -63,7 +63,7 @@ This system uses a **3-layer pipeline**:
 | **Deployment** | Hugging Face Spaces + Docker |
 | **Training Data** | TrashNet + Kaggle Garbage Classification |
 
-## 🔄 System Architecture
+##  System Architecture
 
 ```
 User uploads waste image
@@ -84,7 +84,7 @@ Classification + Heatmap + Bin Guide
 Chatbot answers disposal questions
 ```
 
-## 🗃️ Datasets Used
+##  Datasets Used
 
 | Dataset | Size | Purpose |
 |---------|------|---------|
