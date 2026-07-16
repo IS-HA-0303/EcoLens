@@ -8,7 +8,6 @@ import urllib.request
 
 st.set_page_config(
     page_title="EcoLens — AI Waste Intelligence",
-    page_icon="♻️",
     layout="wide",
     initial_sidebar_state="collapsed"
 )
@@ -560,10 +559,4 @@ with cc:
             st.session_state['messages'] = msgs
             st.rerun()
 
-# ── FOOTER ────────────────────────────────────────────────────
-st.markdown("""
-<div class="footer">
-    EcoLens — Built with <b>PyTorch</b> · <b>EfficientNet-B4</b> · <b>Grad-CAM</b> · <b>FAISS</b> · <b>Groq LLM</b> · <b>Streamlit</b><br>
-    Test Accuracy <b style="color:#059669">89.6%</b> · 13,740 training images · 7 waste categories
-</div>
-""", unsafe_allow_html=True)
+
