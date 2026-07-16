@@ -8,12 +8,12 @@ from albumentations.pytorch import ToTensorV2
 import numpy as np
 from collections import Counter
 
-# ── Image size we will resize everything to ──────────────────
-IMG_SIZE = 224  # EfficientNet-B4 default input size
+
+IMG_SIZE = 224  
 
 # ── Albumentations pipeline for TRAINING images ──────────────
-# Applied randomly each time an image is loaded
-# This artificially increases dataset diversity
+
+
 train_transforms = A.Compose([
     A.Resize(IMG_SIZE, IMG_SIZE),
     A.HorizontalFlip(p=0.5),              # 50% chance mirror image
@@ -45,8 +45,8 @@ train_transforms = A.Compose([
 ])
 
 # ── Albumentations pipeline for VALIDATION and TEST images ───
-# No augmentation — only resize and normalize
-# We want to evaluate on real unmodified images
+# No augmentation — only resize and normalize (evaluate on real unmodified images)
+
 val_transforms = A.Compose([
     A.Resize(IMG_SIZE, IMG_SIZE),
     A.Normalize(
