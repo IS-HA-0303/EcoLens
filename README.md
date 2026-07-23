@@ -91,3 +91,18 @@ Chatbot answers disposal questions
 | [TrashNet (Stanford)](https://github.com/garythung/trashnet) | 2,527 images | 6 base waste classes |
 | [Kaggle Garbage Classification](https://www.kaggle.com/datasets/mostafaabla/garbage-classification) | 15,515 images | 12 diverse waste classes |
 | **Combined (after merge)** | **13,740 images** | **7 unified classes** |
+
+
+## Screenshots
+
+### Home Page
+![Screenshot 1](screenshots/2%20(1).png)
+
+### Grad-CAM Heatmap
+![Screenshot 2](screenshots/2%20(2).png)
+
+### Confidence Score
+![Screenshot 3](screenshots/2%20(3).png)
+
+### Chatbot
+![Screenshot 4](screenshots/2%20(4).png)
